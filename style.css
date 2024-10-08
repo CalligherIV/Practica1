@@ -1,0 +1,11 @@
+#web {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+p.ejemplo {
+    color: red;
+}
